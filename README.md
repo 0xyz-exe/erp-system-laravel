@@ -19,6 +19,17 @@ The **ERP System** provides enterprises with end-to-end operational traceability
 
 ---
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Operasional ERP**<br>Ringkasan KPI katalog produk, peringatan batas minimum stok, status PO/SO aktif, saldo kas likuid, dan audit trail | ![Dashboard Operasional ERP](docs/screenshots/01-dashboard-overview.png) |
+| **Katalog Inventaris & Pergudangan**<br>Manajemen SKU produk, pemantauan stok live, badge status ambang batas, dan form penyesuaian cepat | ![Katalog Inventaris & Pergudangan](docs/screenshots/02-inventory-catalog.png) |
+| **Manajemen Pengadaan & Purchase Orders**<br>Penerbitan PO vendor, rincian biaya per item, tracking status pesanan, dan penerimaan barang (Goods Receipt) | ![Manajemen Pengadaan & Purchase Orders](docs/screenshots/03-purchasing-transactions.png) |
+| **Akuntansi Keuangan & Buku Besar**<br>Bagan akun (COA) multi-kategori, pencatatan transaksi kredit/debit, dan mutasi saldo buku besar | ![Akuntansi Keuangan & Buku Besar](docs/screenshots/04-finance-ledger.png) |
+
+---
+
 ## 2. Key Modules & Workflows
 
 1. **Purchasing & Goods Receipt**:
