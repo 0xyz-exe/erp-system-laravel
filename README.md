@@ -92,3 +92,9 @@ MIT License. Developed as part of the Laravel Projects Factory.
 
 ### Dashboard Overview
 ![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
+
+### Inventory Overview
+![Inventory](docs/screenshots/03_inventory.png)
